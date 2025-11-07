@@ -482,7 +482,7 @@ def main():
         console.print(f"\n💥 [bold red]Unexpected error: {e}[/bold red]")
 
 if __name__ == "__main__":
-    main()green]")
+    main()
             return True
     
     def save_account_info(self):
